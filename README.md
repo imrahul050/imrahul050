@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahul
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP
+
 
 
 <!---
