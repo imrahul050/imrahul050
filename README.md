@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @imrahul050
+- 👋 Hi, I’m @rahul
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
 
 <!---
 imrahul050/imrahul050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
